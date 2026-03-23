@@ -1,0 +1,13 @@
+{
+	"name":"WebGL",
+	"version":"0.0.0",
+	"main": "index.html",
+	"window": {
+		"width":640,"height":480, 
+		"resizable":false,"toolbar": false
+	},
+	"scripts": {
+		"debug":"nw . --auto-open-devtools-for-tabs",
+		"run": "nw ."
+	}
+}
