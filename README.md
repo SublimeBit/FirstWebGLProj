@@ -13,5 +13,5 @@ To run in nw.js, you need download:
 npm -g nw
 
 nw .
-#or "npm run-script" and "npm run debug"(if you need dev console)
+#or "npm run start" and "npm run debug"(if you need dev console)
 ```
